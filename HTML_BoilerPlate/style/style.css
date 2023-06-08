@@ -1,0 +1,59 @@
+.topnav {
+  background-color:#6E6E6E;
+  overflow:auto;
+}
+.topnav a {
+  float:left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration:wavy;
+  font-size: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.topnav a:hover {
+  background-color: #00ABE4;
+  color: black;
+}
+.topnav a.active {
+  background-color: #2272FF;
+  color: white;
+}
+body{
+  background-color:#DDD0C8;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.member-list{
+  font-weight: bold;
+  color:#323232;
+  font-size: larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title{
+  color:#213F99;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.welcome-paragraph{
+  color:#323232;
+  font-weight: bolder;
+  font-size: larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+ul li {
+  /*border: 1px solid #ddd; /* Add a thin border to each list item */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #DDD0C8; /* Add a grey background color */
+  padding: 12px; /* Add some padding */
+}
