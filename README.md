@@ -1,1 +1,1 @@
-# New_Day
+Outline for a possible website idea for the New Day Residency Project
